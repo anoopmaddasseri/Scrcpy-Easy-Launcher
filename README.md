@@ -14,13 +14,13 @@ Check list prior to kick start
 
 ## Usage
 
-* Edit the device_launcher.bat and extend device support
-* Double click to launch device_launcher.bat to create doskey session in cmd
+* Edit the `device_launcher.bat` and extend device support
+* Double click to launch `device_launcher.bat` to create doskey session in cmd
 * Run the device alias that you need to cast in the opened cmd panel
 
 ## Notes
-* Keep the 'Scrcpy Launcher' folder in the desktop. Support for global launching will be added in the upcoming release
-* Currently no support with device serial number / mac address in order to support dynamic allocation, you need to provide the ip address in the 'device_launcher.bat'.
+* Extract the `Scrcpy Easy Launcher` folder at the desktop. Support for global launching will be added in the upcoming release
+* Currently no support with device serial number / mac address in order to support dynamic allocation, you need to provide the ip address in the `device_launcher.bat`.
 
 ## O/P
 
