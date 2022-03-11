@@ -1,5 +1,5 @@
 # Scrcpy Easy Launcher
-## _Windows batch script support for casting android devices with scrcpy using doskey_
+## _Windows batch script demo for automating the adb connect & cast multiple devices connected in the same n/w with 'scrcpy' leveraging doskey alias._
 
 Check list prior to kick start
 
