@@ -16,7 +16,7 @@ Check list prior to kick start
 
 * Edit the `device_launcher.bat` and extend device support
 * Double click to launch `device_launcher.bat` to create doskey session in cmd
-* Run the device alias that you need to cast in the opened cmd panel
+* Run the device alias that you need to cast on the cmd panel
 
 ## Notes
 * Extract the `Scrcpy Easy Launcher` at the desktop. Support for global launching will be added in the upcoming release
