@@ -10,7 +10,7 @@ Check list prior to kick start
 ## Features
 
 - ✨Connect and Launch the target device with simple alias defined✨
-- Works with multiple device connected in the network
+- Works with multiple device connected in the same network
 
 ## Usage
 
