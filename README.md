@@ -19,7 +19,7 @@ Check list prior to kick start
 * Run the device alias that you need to cast in the opened cmd panel
 
 ## Notes
-* Keep the 'Scrcpy Launcher' folder in the desktop. Support for gloabl launching will be added in the upcoming release
+* Keep the 'Scrcpy Launcher' folder in the desktop. Support for global launching will be added in the upcoming release
 
 ## License
 
