@@ -20,7 +20,7 @@ Check list prior to kick start
 
 ## Notes
 * Extract the `Scrcpy Easy Launcher` at the desktop. Support for global launching will be added in the upcoming release
-* Currently no support with device serial number / mac address in order to support dynamic allocation, you need to provide the ip address in the `device_launcher.bat`.
+* Currently no TCP connect device serial number / mac address in order to support dynamic allocation, you need to provide the ip address in the `device_launcher.bat`.
 
 ## O/P
 
