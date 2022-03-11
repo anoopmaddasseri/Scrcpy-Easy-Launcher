@@ -1,4 +1,4 @@
-# Scrycpy Easy Launcher
+# Scrcpy Easy Launcher
 ## _Windows batch script support for casting android devices with scrcpy using doskey_
 
 Check list prior to kick start
