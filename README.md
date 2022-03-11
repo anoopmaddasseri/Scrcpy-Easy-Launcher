@@ -22,6 +22,8 @@ Check list prior to kick start
 * Keep the 'Scrcpy Launcher' folder in the desktop. Support for global launching will be added in the upcoming release
 * Currently no support with device serial number / mac address in order to support dynamic allocation, you need to provide the ip address in the 'device_launcher.bat'.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/16607998/157897801-f4033f3f-9352-4873-a9bc-ddb8d4f2f03d.gif)
+
 ## License
 
 MIT
